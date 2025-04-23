@@ -55,18 +55,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-## 📂 Projects
-
-### [Data Upload Platform](https://github.com/anishshet/data-upload-platform)
-- 🛠️ Built with NestJS and Multer
-- 📄 Handles CSV uploads with validation
-- 🔗 [Live Demo](https://your-live-demo-link.com)
-
-### [Agentic RAG Playground](https://github.com/anishshet/agentic-rag-playground)
-- 🤖 Multi-agent task delegation for document QA
-- 🧠 Integrates LLMs and RAG architecture
-- 🔗 [Live Demo](https://your-live-demo-link.com)
-
 ## 📊 GitHub Stats
 
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishshet&show_icons=true&theme=github_dark)
