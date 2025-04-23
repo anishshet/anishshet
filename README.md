@@ -69,7 +69,8 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anishshet)](https://linkedin.com/in/anishshet)
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anishshet5@gmail.com)](mailto:anishshet5@gmail.com)
 
-- 🌐 [Portfolio](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio-anishshet5-gmailcoms-projects.vercel.app)](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
+
 
 ---
 📄 [View My Resume](https://github.com/anishshet/anishshet/blob/main/Anish_Shet.pdf)
