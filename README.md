@@ -1,4 +1,4 @@
-![Banner](https://github.com/anishshet/anishshet/blob/main/banner.jpg)
+
 
 <img src="https://komarev.com/ghpvc/?username=anishshet&label=Profile%20views&color=0e75b6&style=flat" alt="anishshet" /> </p>
 
