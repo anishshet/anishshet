@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Anish Shet
+# 👋 Hi, I'm Anish Shet <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishshet&label=Profile%20views&color=0e75b6&style=flat" alt="anishshet" /> </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+TypeScript;Intern+%40+Clarovate)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishshet&label=Profile%20views&color=0e75b6&style=flat" alt="anishshet" /> </p>
+
 ## 🚀 About Me
 
 - 🎓 Computer Engineering student at VIIT
