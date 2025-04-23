@@ -68,7 +68,6 @@
 
 - 📧 Email: anishshet5@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/anishshet)
-- 🧠 [GitHub](https://github.com/anishshet)
 - 🌐 [Portfolio](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
 
 ---
