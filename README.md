@@ -69,5 +69,6 @@
 - 🌐 [Portfolio](https://portfolio-anishshet5-gmailcoms-projects.vercel.app)
 
 ---
+📄 [View My Resume](https://github.com/anishshet/anishshet/blob/main/Anish_Shet.pdf)
 
 *“Striving for excellence in every line of code.”*
