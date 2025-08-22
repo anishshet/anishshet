@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student at VIIT
-- 💼 Intern at Clarovate
+- 🎓 Recently Graduated from VIIT
 - 🧠 Passionate about AI, LLMs, and scalable systems
 - 🌐 Exploring full-stack development with React, Node.js, and TypeScript
 
